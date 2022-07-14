@@ -1,0 +1,26 @@
+{
+  "hey_squidward": {
+    "subtitle": "examplemod.hey_squidward",
+    "sounds": [ "examplemod:hey_squidward" ]
+  },
+  "chocolate": {
+    "subtitle": "examplemod.chocolate",
+    "sounds": [ "examplemod:chocolate"]
+  },
+  "buyall": {
+    "subtitle": "examplemod.buyall",
+    "sounds": [ "examplemod:buyall"]
+  },
+  "ice_cubes": {
+    "subtitle": "examplemod.ice_cubes",
+    "sounds": [ "examplemod:ice_cubes"]
+  },
+  "thanks": {
+    "subtitle": "examplemod.thanks",
+    "sounds": [ "examplemod:thanks"]
+  },
+  "what": {
+    "subtitle": "examplemod.what",
+    "sounds": [ "examplemod:what"]
+  }
+}
